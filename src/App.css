@@ -24,6 +24,23 @@
   color: white;
 }
 
+.button_input {
+  margin: 2px;
+  width: 2em;
+  height: 2em;
+  background-color: black;
+}
+.button_input:hover {
+  background-color: black;
+}
+
+.button_ok {
+  margin: 2px;
+  width: 2em;
+  height: 2em;
+  background-color: black;
+}
+
 .App-link {
   color: #61dafb;
 }
